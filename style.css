@@ -1,1 +1,14 @@
+.main_box {
+    padding: 1.5rem;
+    background-image: linear-gradient(white, #9198e5);
+    
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    background-color: #9198e5;
+}
 
+p {
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
